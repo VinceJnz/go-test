@@ -1,9 +1,4 @@
-<html>
-
-<body>
 NewPage 1
-<br>
 Test1
-</body>
-
-</html>
+Test2
+Test3
